@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "717376758532",
+    "firebase_url": "https://machinerent-906a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "machinerent-906a8",
+    "storage_bucket": "machinerent-906a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717376758532:android:66212a35452511ed902651",
+        "android_client_info": {
+          "package_name": "com.example.machinerent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwFBcqc-Lx8xSMo-jWfQry2Mx66FCXek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
